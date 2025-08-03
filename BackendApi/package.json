@@ -1,0 +1,14 @@
+{
+  "name": "express-ws-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pdf-lib": "^1.17.1",
+    "ws": "^8.18.3"
+  }
+}
